@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728620592746",
+    "project_id": "schedule-and-records",
+    "storage_bucket": "schedule-and-records.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728620592746:android:50841a035f9070cfe4a413",
+        "android_client_info": {
+          "package_name": "com.yawara.shedule_and_records"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIL9jL5VlHcmWzDUp6a_br2_kPAautbjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
